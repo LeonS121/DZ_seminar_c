@@ -61,7 +61,7 @@
 
     git branch <branch name>
 
-где \<branch neme\> имя новой ветки
+где \<branch name\> имя новой ветки
 
 ## Слияние веток
 
@@ -69,5 +69,4 @@
 
     branch merge <branch name>
 
- где \<branch neme\> имя новой ветки   
- 
+ где \<branchname\> имя новой ветки   
