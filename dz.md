@@ -80,3 +80,7 @@
     branch merge <branch name>
 
  где \<branchname\> имя новой ветки
+
+ ## Удаление веток
+
+ 
