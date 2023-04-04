@@ -62,3 +62,5 @@
     git branch <branch name>
 
 где \<branch neme\> имя новой ветки
+
+## Переключение между ветками
